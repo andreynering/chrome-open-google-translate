@@ -3,7 +3,7 @@
 
   "name": "Open Google Translate",
   "description": "Open Google Translate searching for the selected text.",
-  "version": "1.0",
+  "version": "1.1",
 
   "permissions": [
     "activeTab"
